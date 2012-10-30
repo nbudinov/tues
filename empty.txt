@@ -27,3 +27,5 @@ ARGV.each do |a|
 		end
 	end
 end
+
+https://help.github.com/articles/generating-ssh-keys
