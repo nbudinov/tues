@@ -11,7 +11,7 @@ N.10
 int main() {
 	int x, arr[10];
 	int c, i;
-	while (x < 0) {
+	while (x > 0) {
 	printf("Vavedete x: ");
 	scanf("%d", &x);
 	}
